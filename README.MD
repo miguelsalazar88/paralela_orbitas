@@ -1,4 +1,4 @@
-para el desarrollo de esta práctica experimental se escribió, en dos lenguajes de programación (Python y Cython), un pequeño programa que calcula la posición, velocidad y fuerza gravitacional de un planeta al orbitar a una distancia determinada de otro cuerpo mediante una ecuación diferencial. Esto con el fin de efectuar una comparación de rendimiento entre los dos lenguajes.
+Para el desarrollo de esta práctica experimental se escribió, en dos lenguajes de programación (Python y Cython), un pequeño programa que calcula la posición, velocidad y fuerza gravitacional de un planeta al orbitar a una distancia determinada de otro cuerpo mediante una ecuación diferencial. Esto con el fin de efectuar una comparación de rendimiento entre los dos lenguajes.
 
 Archivos:
 
