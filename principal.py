@@ -21,7 +21,6 @@ fin_time = time.time()
 
 time_cython = fin_time - ini_time
 
-print(f'Cython es: {time_cython}')
-print(f'Python es: {time_python}')
+print(f'{time_cython},{time_python}')
 
 
